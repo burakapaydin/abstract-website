@@ -1,3 +1,3 @@
-Frontend practice challenge - https://www.frontendpractice.com/projects/abstract
+Frontend practice challenge
 -
 Live: https://creative-pika-260b54.netlify.app/
